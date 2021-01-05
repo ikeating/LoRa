@@ -1,7 +1,7 @@
 // Feather32u4 rfm96_TX
 // -*- mode: C++ -*-
 //  **  tango  **  messaging client (transmitter)
-//Isaiah Keating
+//Isaiah Keating is the dude
 
 #include <SPI.h>
 #include <RH_RF95.h>
